@@ -1,4 +1,4 @@
-Create a React web app that displays a schedule for courses for a computer science department. The display should be simple. Use basic HTML and CSS.  Using the test data in the JSON below, the page should look like the screenshot in ![screenshot](./docs/slice1-image.png).
+Create a React web app that displays a schedule for courses for a computer science department. The display should be simple. Use basic HTML and CSS.  Using the test data in the JSON below, the page should look like the screenshot in ![screenshot](./docs/text-ui.png).
 
 ```
 const schedules = {
