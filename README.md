@@ -11,7 +11,7 @@ Node 24 or greater is assumed.
 To create a new repository for doing the challenges, run the following commands in your terminal, replacing `your-app-name` with the name of your app.
 
 ```
-cd folder-where-you-want-to-keep-app-code
+cd your-projects-folder
 npx gitpick criesbeck/react-start your-app-name
 cd your-app-name
 npm install
